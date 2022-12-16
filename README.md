@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ncinme
 - 👀 I’m interested in becoming a better software professional
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript at Hyperiondev bootcamp
 - 💞️ I’m looking to collaborate on Python APIs
 - 📫 How to reach me - email is the best option!!
 
