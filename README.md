@@ -7,6 +7,6 @@ Well, homo sapians outperfored all other species through collaboration. I would 
 
 This repository highlights the list of projects, showcasing my learning so far.
 
-My deailed bio: (https://github.com/ncinme/finalCapstone/blob/master/README.md)
+Please visit [my deailed bio](https://github.com/ncinme/finalCapstone/blob/master/README.md) link for more information.
 
-- 📫 How to reach me - email is the best option!!
+📫 Email is the best option to reach out to me!!
